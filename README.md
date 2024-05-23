@@ -8,8 +8,10 @@ This project is a service for parsing information about Pokémon from a website 
 
 ```bash
 git clone https://github.com/yourusername/pokemon-parser.git
+```
 
 2. Install dependencies:
 
 ```bash
 go mod tidy
+```
