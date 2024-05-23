@@ -45,7 +45,7 @@ GET http://localhost:8080/all
 
 ```json
 {
-  Data": [
+  "Data": [
     {
       "name": "Bulbasaur",
       "price": "£63.00£",
